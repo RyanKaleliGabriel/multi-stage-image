@@ -27,6 +27,5 @@
 > copy the compiled binaries into a final runtime image. No need to bundle the enitrre compiler in
 > your final image
 
-# Image built without a multi-stage approach(using one base image for building and as a runtime environment)
-# vs Image built with multi-stage build.
+## Image built without a multi-stage approach(using one base image for building and as a runtime environment) vs Image built with multi-stage build.
 ![alt text](./assets/screenshot.png)
